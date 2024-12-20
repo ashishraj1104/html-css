@@ -1,0 +1,33 @@
+#card{
+    width: fit-content;
+    height: fit-content;
+    display: inline-block;
+    margin: 0 0 30px 0;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 4px 8px black;
+    transition: 0.5s;
+    background-color:pink;
+    margin: 30px 30px 0 30px;
+}
+.card1{
+    width: fit-content;
+    height: fit-content;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 4px 8px black;
+    transition: 0.5s;
+    background-color:pink;
+}
+img{
+    border-radius: 10px 10px 0 0;
+}
+#card:hover{
+    box-shadow: 5px 10px 20px black;
+
+}
+.card1:hover{
+    box-shadow: 5px 10px 20px black;
+
+}
